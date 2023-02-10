@@ -1,5 +1,5 @@
 import './App.scss';
-import ReadProduct from './pages/ReadProduct';
+import CrudApp from './pages/CrudApp';
 
 
 
@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-       <ReadProduct/>
+       <CrudApp/>
     </>
 
   );
